@@ -16,7 +16,7 @@ $ bower install upper-case
 
 Import `upper-case.html`
  ```html
-    <link rel="import" href="/bower_compoenets/upper-case/upper-case.html">
+    <link rel="import" href="/bower_components/upper-case/upper-case.html">
 ```
 Start using it:
 ```html
