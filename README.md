@@ -13,12 +13,17 @@ $ bower install upper-case
 ```
 
 ## Usage
+Import `platform.js`
+```html
+    <script src="bower_components/platform/platform.js"></script>
+```  
 
 Import `upper-case.html`
  ```html
-    <link rel="import" href="/bower_components/upper-case/upper-case.html">
+    <link rel="import" href="bower_components/upper-case/upper-case.html">
 ```
 Start using it:
+
 ```html
     <upper-case>Your text here</upper-case>
 ```
