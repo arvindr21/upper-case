@@ -1,6 +1,6 @@
 {
   "name": "upper-case",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Arvind Ravulavaru <arvind.ravulavaru@gmail.com>"
   ],
@@ -13,8 +13,7 @@
     "**/.*"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#~0.3.3",
-    "chai": "~1.9.1",
-    "mocha": "~1.19.0"
+    "polymer": "Polymer/polymer",
+    "platform" : "Polymer/platform"
   }
 }
