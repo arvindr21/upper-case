@@ -1,0 +1,7 @@
+{
+  "name": "upper-case#gh-pages",
+  "private": true,
+  "dependencies": {
+    "upper-case": "arvindr21/upper-case#master"
+  }
+}

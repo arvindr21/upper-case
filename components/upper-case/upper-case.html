@@ -1,0 +1,35 @@
+<link rel="import" href="../polymer/polymer.html">
+
+<!--
+An inline element to make content inside it upper-case
+
+##### Basic Usage
+
+    <upper-case>Your text here</upper-case>
+
+The result would be 
+	
+	YOUR TEXT HERE
+
+Using nested tags
+	
+	<upper-case><p>Your text here<p></upper-case>
+
+The result would be 
+	
+	YOUR TEXT HERE
+
+@element upper-case
+@blurb Element providing solution to no problem in particular.
+@status alpha
+@homepage http://arvindr21.github.io/upper-case
+-->
+<polymer-element name="upper-case" attributes="notitle author">
+  <template>
+    <link rel="stylesheet" href="upper-case.css" />
+    <content></content>
+  </template>
+  <script>
+    Polymer('upper-case', {});
+  </script>
+</polymer-element>

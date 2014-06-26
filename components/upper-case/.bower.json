@@ -1,0 +1,28 @@
+{
+  "name": "upper-case",
+  "authors": [
+    "Arvind Ravulavaru <arvind.ravulavaru@gmail.com>"
+  ],
+  "description": "An inline element to make content inside it upper-case",
+  "keywords": "upper case, polymer, web-components",
+  "main": "upper-case.html",
+  "license": "MIT",
+  "homepage": "https://github.com/arvindr21/upper-case/",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer",
+    "platform": "Polymer/platform"
+  },
+  "_release": "4f6d599507",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4f6d5995078888366c0a18b7f9eed42cc4da1489"
+  },
+  "_source": "git://github.com/arvindr21/upper-case.git",
+  "_target": "master",
+  "_originalSource": "arvindr21/upper-case",
+  "_direct": true
+}
