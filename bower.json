@@ -1,0 +1,20 @@
+{
+  "name": "upper-case",
+  "version": "0.0.0",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An inline element to make content inside it upper-case",
+  "keywords": "seed, polymer, web-components",
+  "main": "upper-case.html",
+  "license": "MIT",
+  "homepage": "https://github.com/arvindr21/upper-case/",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.3",
+    "chai": "~1.9.1",
+    "mocha": "~1.19.0"
+  }
+}
