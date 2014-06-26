@@ -1,11 +1,11 @@
 {
   "name": "upper-case",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Arvind Ravulavaru <arvind.ravulavaru@gmail.com>"
   ],
   "description": "An inline element to make content inside it upper-case",
-  "keywords": "seed, polymer, web-components",
+  "keywords": "upper case, polymer, web-components",
   "main": "upper-case.html",
   "license": "MIT",
   "homepage": "https://github.com/arvindr21/upper-case/",
